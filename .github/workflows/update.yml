@@ -1,0 +1,32 @@
+name: Auto Convert AdGuard to Hosts
+on:
+  schedule:
+    - cron: '0 17 * * *' # Chạy tự động vào 0h đêm giờ Việt Nam mỗi ngày
+  workflow_dispatch: # Cho phép bạn bấm nút chạy bằng tay bất cứ lúc nào
+
+jobs:
+  convert_and_update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download and convert AdGuard list
+        run: |
+          # 1. Tải danh sách AdGuard của bạn về (Thay link của bạn vào đây)
+          curl -sL "ĐƯỜNG_LINK_ADGUARD_CỦA_BẠN" > adguard.txt
+          
+          # 2. Tạo nội dung tiêu đề cho file host mới
+          echo "# Danh sach chan tu dong" > host
+          
+          # 3. Dùng lệnh để lọc bỏ ký tự || và ^ rồi chuyển thành dạng 0.0.0.0
+          sed -E -n 's/^\|\|([^^\/]+).*/0.0.0.0 \1/p' adguard.txt >> host
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
+          git add host
+          git commit -m "Auto updated hosts from AdGuard list" || exit 0
+          git push
+          
