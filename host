@@ -1,6 +1,6 @@
 # Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
 # CopyRight by HaGeZi's.
-# Automatically Updates At: $(date)
+# Updates At: Mon Oct  5 12:53:26 UTC 2026
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
 0.0.0.0 dns.010812.xyz
@@ -318,6 +318,7 @@
 0.0.0.0 doh.almir1904.eu
 0.0.0.0 doh2.almir1904.eu
 0.0.0.0 doh3.almir1904.eu
+0.0.0.0 tgproxy.alnidok.ru
 0.0.0.0 link.altapo.ru
 0.0.0.0 adguard.altgr.xyz
 0.0.0.0 adguard.alu.dog
@@ -429,7 +430,6 @@
 0.0.0.0 dns.ashleyjackson.net
 0.0.0.0 music.know.asiapacificpatent.net
 0.0.0.0 doh.asli.id
-0.0.0.0 s11.assetflux.org
 0.0.0.0 task.major.assholetenants.com
 0.0.0.0 dns.asterimoon.com
 0.0.0.0 amgr.asuscomm.com
@@ -1841,7 +1841,6 @@
 0.0.0.0 adg.datamatter.co.za
 0.0.0.0 pihole.datamatter.co.za
 0.0.0.0 adguard.discounthost.co.uk
-0.0.0.0 im.dumaniltd.co.uk
 0.0.0.0 dns.eliv.co.kr
 0.0.0.0 at.foltmeingop.co.uk
 0.0.0.0 bale.foltmeingop.co.uk
@@ -1904,6 +1903,7 @@
 0.0.0.0 nooshabe.mikhay.co.uk
 0.0.0.0 pashmak.mikhay.co.uk
 0.0.0.0 pofak.mikhay.co.uk
+0.0.0.0 saboon.mikhay.co.uk
 0.0.0.0 mio.mozitop.co.uk
 0.0.0.0 puot.mozitop.co.uk
 0.0.0.0 ving.mozitop.co.uk
@@ -1923,7 +1923,7 @@
 0.0.0.0 opsecmastur.nowhearthis.co.uk
 0.0.0.0 dns.nzxti5.co.uk
 0.0.0.0 dns.oliviertv.co.za
-0.0.0.0 mahi.poolaki.co.uk
+0.0.0.0 boro.poolaki.co.uk
 0.0.0.0 refiq.poolaki.co.uk
 0.0.0.0 set.qavi-13.co.uk
 0.0.0.0 lightspeed.qr-code.co.za
@@ -1934,9 +1934,9 @@
 0.0.0.0 reyhoon.shambelile.co.uk
 0.0.0.0 dns.skuy.co.id
 0.0.0.0 dns.speed-benz.co.uk
+0.0.0.0 premium.speed-benz.co.uk
 0.0.0.0 dns.spil.co.id
 0.0.0.0 dns.srinivasrao.co.in
-0.0.0.0 price.syscloudio.co.uk
 0.0.0.0 gallery.talebi.co.uk
 0.0.0.0 noron.talebi.co.uk
 0.0.0.0 star.talebi.co.uk
@@ -2734,6 +2734,7 @@
 0.0.0.0 yuzu.easterndns.com
 0.0.0.0 dns.easyhns.com
 0.0.0.0 ajh.eats-logi.lol
+0.0.0.0 ebrahim-noh-mosa.ebimarh.info
 0.0.0.0 jedi-migi.ebimarh.info
 0.0.0.0 khobi-alhamdolelah.ebimarh.info
 0.0.0.0 mashti-khan.ebimarh.info
@@ -2772,12 +2773,9 @@
 0.0.0.0 adguard.elrobit.com
 0.0.0.0 nas.embraced.co
 0.0.0.0 coreenglish.emili.com
-0.0.0.0 ramm.eminescusm.ro
-0.0.0.0 websiteiseasy.emtbiceland.is
 0.0.0.0 gdns.end.pub
 0.0.0.0 hk.end.pub
 0.0.0.0 verify.endiseducation.com
-0.0.0.0 confess.endtimeassembly.org
 0.0.0.0 plant.smart.energysemi.com
 0.0.0.0 ir.engematica.info
 0.0.0.0 dns.engineer-lib.ru
@@ -2852,9 +2850,6 @@
 0.0.0.0 v2rich.eu.org
 0.0.0.0 yanggan.eu.org
 0.0.0.0 vm596152.eurodir.ru
-0.0.0.0 dns.everdns.tech
-0.0.0.0 r.platform.everfi.gq
-0.0.0.0 www.platform.everfi.cf
 0.0.0.0 wdefrgthjyu.evils.in
 0.0.0.0 zexrctvjykiuln.evils.in
 0.0.0.0 exns1.exalto.nu
@@ -2888,7 +2883,6 @@
 0.0.0.0 shark-pan.f5.si
 0.0.0.0 skrt.f5.si
 0.0.0.0 socchanpxy.f5.si
-0.0.0.0 jp1.f7b6h9.tk
 0.0.0.0 dns.f97.xyz
 0.0.0.0 dns.fabidouille.com
 0.0.0.0 proxy.facil.wtf
@@ -3267,6 +3261,7 @@
 0.0.0.0 velocity.groups.id
 0.0.0.0 dns.grqu.de
 0.0.0.0 ir.grumpyoldmen.info
+0.0.0.0 ir-ir.grumpyoldmen.info
 0.0.0.0 vps.grussenmeyer.com
 0.0.0.0 gamgasyoppakuteri-zenttodabi.gslb.info
 0.0.0.0 dns.gsmseti.net
@@ -3315,7 +3310,6 @@
 0.0.0.0 d.hansj.cc
 0.0.0.0 classroom.haoqiw.com
 0.0.0.0 dns.haoxuan.xyz
-0.0.0.0 media12.happtg.org
 0.0.0.0 cars.happyforever.com
 0.0.0.0 skibidiparkergoon.happyforever.com
 0.0.0.0 turtle.happyforever.com
@@ -3491,6 +3485,7 @@
 0.0.0.0 adguard.shuting.idv.tw
 0.0.0.0 gitea.sukon.idv.tw
 0.0.0.0 cyliu.idv.tw
+0.0.0.0 qeshm.island.ir.igakwvwa.info
 0.0.0.0 galaxyiscool.ignorelist.com
 0.0.0.0 learningscience.ignorelist.com
 0.0.0.0 test52139.ignorelist.com
@@ -4098,7 +4093,7 @@
 0.0.0.0 api.miningbest.com
 0.0.0.0 dns.mipauns.com
 0.0.0.0 guard.miracloud.fr
-0.0.0.0 fast.mishutkin.click
+0.0.0.0 ultra.mishutkin.click
 0.0.0.0 netcup.mismat.ch
 0.0.0.0 httpdns.browser.miui.com
 0.0.0.0 dns.miyun1.com
@@ -4310,6 +4305,7 @@
 0.0.0.0 theory.terms.nazari.org
 0.0.0.0 vpn.nbvalente.fr
 0.0.0.0 vpn.ncapi.io
+0.0.0.0 rutube.nclick.shop
 0.0.0.0 dns.ndo.dev
 0.0.0.0 tk2-404-43267.vs.sakura.ne.jp
 0.0.0.0 x210-131-219-118.static.xvps.ne.jp
@@ -4318,7 +4314,6 @@
 0.0.0.0 darklight.neo-space.space
 0.0.0.0 s01.neo-trading.org
 0.0.0.0 s02.neo-trading.org
-0.0.0.0 s03.neo-trading.org
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 positif4.cross.net.id
 0.0.0.0 guard-jkt-225.glosindo.net.id
@@ -8633,7 +8628,6 @@
 0.0.0.0 easyhaiou.com
 0.0.0.0 easyhaishen.com
 0.0.0.0 easyhaitun.com
-0.0.0.0 easyhandshake.com
 0.0.0.0 easyhaoyong.com
 0.0.0.0 easyhearthstone.com
 0.0.0.0 easyheibao.com
@@ -8689,7 +8683,6 @@
 0.0.0.0 easyovercooked.com
 0.0.0.0 easyoverwatch.com
 0.0.0.0 easypojieban.com
-0.0.0.0 easyproxy.tech
 0.0.0.0 easypubg.com
 0.0.0.0 easypureapp.com
 0.0.0.0 easypz.ru
@@ -8784,7 +8777,6 @@
 0.0.0.0 ednovas.xyz
 0.0.0.0 ednovasyunclash.com
 0.0.0.0 edpuzzle.space
-0.0.0.0 edpxzc8w5jqk.online
 0.0.0.0 edsqevwp.com
 0.0.0.0 edublue.org
 0.0.0.0 educationate.space
@@ -8819,7 +8811,6 @@
 0.0.0.0 elmlfbdf.com
 0.0.0.0 elonvpn.com
 0.0.0.0 elsinistro.art
-0.0.0.0 elva-no.ru
 0.0.0.0 elvano.ru
 0.0.0.0 elvkd0.xyz
 0.0.0.0 elyxvpn.com
@@ -8831,7 +8822,6 @@
 0.0.0.0 emnzda.com
 0.0.0.0 emuby.com
 0.0.0.0 en-proxy.com
-0.0.0.0 enaevym08dequf033jdvbr.online
 0.0.0.0 enclosr.co
 0.0.0.0 enclypt.com
 0.0.0.0 encrypt-panicnitro.me
@@ -8841,7 +8831,6 @@
 0.0.0.0 endis.org
 0.0.0.0 endis.rest
 0.0.0.0 endorseattic.com
-0.0.0.0 endravo.ru
 0.0.0.0 energys.ir
 0.0.0.0 englishtutoring.cfd
 0.0.0.0 enotvpn.net
@@ -8855,7 +8844,6 @@
 0.0.0.0 eq8v2xfv.com
 0.0.0.0 erenta.ru
 0.0.0.0 erjysmdn.com
-0.0.0.0 erproxy.tk
 0.0.0.0 errwan65237.biz
 0.0.0.0 errwan65878.biz
 0.0.0.0 erwan.cc
@@ -8864,8 +8852,6 @@
 0.0.0.0 erwan8.net
 0.0.0.0 erwancloud.info
 0.0.0.0 erxikjr.com
-0.0.0.0 erymax.ru
-0.0.0.0 eryno.ru
 0.0.0.0 es-proxy.com
 0.0.0.0 esbdgef.com
 0.0.0.0 esses.info
@@ -8896,11 +8882,8 @@
 0.0.0.0 ewanwzz.net
 0.0.0.0 ewkimppj.com
 0.0.0.0 ewon.biz
-0.0.0.0 excavationdash.space
 0.0.0.0 excelkin.online
-0.0.0.0 exemptpaint.space
 0.0.0.0 exg7xhdl.com
-0.0.0.0 exnxoswc.cc
 0.0.0.0 expatshield.com
 0.0.0.0 expectmark.com
 0.0.0.0 explosionlearning.org
@@ -8932,7 +8915,6 @@
 0.0.0.0 ezgg.lol
 0.0.0.0 ezhyperlix.xyz
 0.0.0.0 ezvenih.com
-0.0.0.0 f-air.tk
 0.0.0.0 f2fenglish.org
 0.0.0.0 f32300004fb97f8fbcfb805500b8492a1808d4f2.com
 0.0.0.0 f3556fm3o524m9.com
@@ -8949,7 +8931,6 @@
 0.0.0.0 falais.com
 0.0.0.0 fallin.app
 0.0.0.0 familyfirst.church
-0.0.0.0 famiroq.ru
 0.0.0.0 fangzhou.date
 0.0.0.0 fanscloud.net
 0.0.0.0 fantagia.net
@@ -15221,6 +15202,7 @@
 0.0.0.0 vpnsatoshi.com
 0.0.0.0 vpnsatoshi.net
 0.0.0.0 vpnsbox.ru
+0.0.0.0 vpnschool.courses
 0.0.0.0 vpnsdb.com
 0.0.0.0 vpnsec.com
 0.0.0.0 vpnsecure.me
