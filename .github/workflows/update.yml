@@ -14,10 +14,10 @@ jobs:
       - name: Download and convert AdGuard list
         run: |
           # 1. Tải danh sách AdGuard của bạn về (Thay link của bạn vào đây)
-          curl -sL "ĐƯỜNG_LINK_ADGUARD_CỦA_BẠN" > adguard.txt
+          curl -sL "https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt" > adguard.txt
           
           # 2. Tạo nội dung tiêu đề cho file host mới
-          echo "# Danh sach chan tu dong" > host
+          echo "# Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed." > host
           
           # 3. Dùng lệnh để lọc bỏ ký tự || và ^ rồi chuyển thành dạng 0.0.0.0
           sed -E -n 's/^\|\|([^^\/]+).*/0.0.0.0 \1/p' adguard.txt >> host
