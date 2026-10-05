@@ -19,7 +19,7 @@ jobs:
           # 2. Tạo nội dung tiêu đề cho file host mới
           echo "# Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed." > host
           echo "# CopyRight by HaGeZi's." >> host
-          echo "# Automatically Updates At: \$(date)" >> host
+          echo "# Updates At: $(date)" >> host
           # 3. Dùng lệnh để lọc bỏ ký tự || và ^ rồi chuyển thành dạng 0.0.0.0
           sed -E -n 's/^\|\|([^^\/]+).*/0.0.0.0 \1/p' adguard.txt >> host
 
