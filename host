@@ -1,6 +1,6 @@
 # Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
 # CopyRight by HaGeZi's.
-# Updates At: Sat Oct 24 19:20:42 UTC 2026
+# Updates At: Sun Oct 25 19:29:02 UTC 2026
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
 0.0.0.0 dns.010812.xyz
