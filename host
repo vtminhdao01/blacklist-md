@@ -1,6 +1,6 @@
 # Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
 # CopyRight by HaGeZi's.
-# Updates At: Mon Oct 26 21:31:04 UTC 2026
+# Updates At: Tue Oct 27 21:09:36 UTC 2026
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
 0.0.0.0 dns.010812.xyz
@@ -995,6 +995,9 @@
 0.0.0.0 dns.ch295.ru
 0.0.0.0 play.ch3n.cc
 0.0.0.0 dns.chadeyron.fr
+0.0.0.0 tg1-ru4.chadvpn.shop
+0.0.0.0 tg1-ru5.chadvpn.shop
+0.0.0.0 tg1-ru6.chadvpn.shop
 0.0.0.0 dns.chalkychalk.com
 0.0.0.0 adguard.chanhome.xyz
 0.0.0.0 cloudsrv.charitosnet.de
@@ -1891,22 +1894,22 @@
 0.0.0.0 shsh.anotelinopalk.co.uk
 0.0.0.0 yek.anotelinopalk.co.uk
 0.0.0.0 333.antony-gordon.co.uk
+0.0.0.0 tehran.bingi.co.uk
 0.0.0.0 adguard.cell.co.id
 0.0.0.0 dns.chaosen3.co.uk
 0.0.0.0 silver.ciaude.co.uk
 0.0.0.0 good.cipservice.co.uk
 0.0.0.0 great.cipservice.co.uk
-0.0.0.0 ir.closcloud.co.uk
 0.0.0.0 dns-01.computerservices.co.nz
 0.0.0.0 dns-02.computerservices.co.nz
 0.0.0.0 adg.datamatter.co.za
 0.0.0.0 pihole.datamatter.co.za
+0.0.0.0 paeez.delroba.co.uk
+0.0.0.0 tazenafas.dingi3.co.uk
 0.0.0.0 adguard.discounthost.co.uk
-0.0.0.0 im.dumaniltd.co.uk
 0.0.0.0 dns.eliv.co.kr
-0.0.0.0 dashi.estabonita.co.uk
-0.0.0.0 haji.estabonita.co.uk
 0.0.0.0 team.fast--pro.co.uk
+0.0.0.0 e3fand.fesgheli.co.uk
 0.0.0.0 ir.forzajuve.co.uk
 0.0.0.0 gn-z11.franscois.co.za
 0.0.0.0 dns.gayanalysing.co.uk
@@ -1927,27 +1930,29 @@
 0.0.0.0 soheil.goooalir.co.uk
 0.0.0.0 tassian.goooalir.co.uk
 0.0.0.0 vasle.goooalir.co.uk
+0.0.0.0 cdn1.graduat.co.uk
 0.0.0.0 web3.graduat.co.uk
-0.0.0.0 ir.groundfloorsolutions.co.uk
 0.0.0.0 focus.utopia.gzone.co.kr
-0.0.0.0 ccc.horizon555.co.uk
-0.0.0.0 one.horizon555.co.uk
 0.0.0.0 ag.hostme.co.il
 0.0.0.0 ixl.math.hsf.co.za
+0.0.0.0 support.infinityhalo.co.uk
 0.0.0.0 d1.jadroom.co.uk
 0.0.0.0 dns.kloiber.co.at
 0.0.0.0 dns2.kloiber.co.at
 0.0.0.0 dns-one.lins.co.tt
 0.0.0.0 dns-three.lins.co.tt
 0.0.0.0 guard.lumusimc.co.uk
-0.0.0.0 aseman.lunavane.co.uk
 0.0.0.0 craft.malavanann.co.uk
+0.0.0.0 jadide.mamadali.co.uk
+0.0.0.0 vasalshim.mamadgoli.co.uk
 0.0.0.0 api.mangoseason5.co.uk
 0.0.0.0 web.mangoseason7.co.uk
 0.0.0.0 ir.mediaad.co.uk
 0.0.0.0 org.mediaad.co.uk
+0.0.0.0 new7.mizanmizanesgh.co.uk
 0.0.0.0 puot.mozitop.co.uk
 0.0.0.0 ving.mozitop.co.uk
+0.0.0.0 bimeh.my-moon.co.uk
 0.0.0.0 new.nakoskoskesh.co.uk
 0.0.0.0 dns.neilzone.co.uk
 0.0.0.0 ns02.nerdytechgeeks.co.za
@@ -1960,8 +1965,8 @@
 0.0.0.0 lightspeed.qr-code.co.za
 0.0.0.0 mathnotes.qr-code.co.za
 0.0.0.0 dns.rawalker.co.nz
-0.0.0.0 speed.runserver.co.uk
-0.0.0.0 darya.saheledarya.co.uk
+0.0.0.0 honar.saheledarya.co.uk
+0.0.0.0 mofid.saheledarya.co.uk
 0.0.0.0 dns.skuy.co.id
 0.0.0.0 dns.speed-benz.co.uk
 0.0.0.0 premium.speed-benz.co.uk
@@ -1980,14 +1985,12 @@
 0.0.0.0 doh.vpsdns.co.za
 0.0.0.0 dns.walshnet.co.uk
 0.0.0.0 agh.workfordemo.co.in
-0.0.0.0 1y23.e7.yayayajd.co.uk
-0.0.0.0 f123.e7.yayayajd.co.uk
 0.0.0.0 10bestvpn.co.uk
+0.0.0.0 3etare.co.uk
 0.0.0.0 accessvpn.co.uk
 0.0.0.0 akashiro.co.id
 0.0.0.0 antidnsvpn.co.cc
 0.0.0.0 binhexsolutions.co.uk
-0.0.0.0 bo0ji.co.uk
 0.0.0.0 burgerip.co.uk
 0.0.0.0 buystoryapp.co.uk
 0.0.0.0 cipherdns.co.za
@@ -2005,6 +2008,7 @@
 0.0.0.0 my-private-network.co.uk
 0.0.0.0 ninjaproxy.co.uk
 0.0.0.0 noblocc.co.uk
+0.0.0.0 nocloudnew.co.uk
 0.0.0.0 nordvpn.co.il
 0.0.0.0 nordvpn.co.uk
 0.0.0.0 nordvpn.co.za
@@ -2021,6 +2025,7 @@
 0.0.0.0 safesurfer.co.nz
 0.0.0.0 sbdns.co.in
 0.0.0.0 secvpnproxy.co.cc
+0.0.0.0 severjadid.co.uk
 0.0.0.0 sols.co.in
 0.0.0.0 suodbo.co.uk
 0.0.0.0 surfshark.co.uk
@@ -3029,6 +3034,8 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 study.tests.fiat500.li
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 ir.speed.finecooking.info
+0.0.0.0 fast.finecooking.info
 0.0.0.0 canvas-math-tools.firebaseapp.com
 0.0.0.0 infamous-scram-test.firebaseapp.com
 0.0.0.0 quix-vpn.firebaseapp.com
@@ -3241,9 +3248,6 @@
 0.0.0.0 moph.go.th
 0.0.0.0 roadesdyn.go.ro
 0.0.0.0 clever.issuesloggingin.hndifhidalgo.gob.mx
-0.0.0.0 api.godserver52.info
-0.0.0.0 loud-teal.godserver52.info
-0.0.0.0 magic.godserver52.info
 0.0.0.0 dns.goertz.digital
 0.0.0.0 eime.goip.de
 0.0.0.0 dohsg.goitoi.co
@@ -3356,6 +3360,7 @@
 0.0.0.0 tasks.gov.heronquays.com
 0.0.0.0 adg.herry.dev
 0.0.0.0 httpdns.ocloud.heytapmobi.com
+0.0.0.0 philadelphia.hezarto.info
 0.0.0.0 bookmook.hichibehichi-co.info
 0.0.0.0 codinggamesforkids.highdesertcoders.com
 0.0.0.0 mail.hilton-groups.com
@@ -3974,6 +3979,7 @@
 0.0.0.0 purchase.machines.asia
 0.0.0.0 v971850.macloud.host
 0.0.0.0 dns.mafyuh.io
+0.0.0.0 cdn1.magli200.info
 0.0.0.0 web3.magli200.info
 0.0.0.0 dns.mahiro.online
 0.0.0.0 adhome.maige.fun
@@ -4042,6 +4048,8 @@
 0.0.0.0 s47n.ir.ir.ir.meli-n12.info
 0.0.0.0 s7n.ir.ir.ir.meli-n12.info
 0.0.0.0 sn.ir.ir.ir.meli-n12.info
+0.0.0.0 521.mmd1.meli-n12.info
+0.0.0.0 6621.mmd1.meli-n12.info
 0.0.0.0 dns.melvin2204.nl
 0.0.0.0 testaghome.meshkov.info
 0.0.0.0 dns.mestdag.fr
@@ -4071,7 +4079,7 @@
 0.0.0.0 api.miningbest.com
 0.0.0.0 dns.mipauns.com
 0.0.0.0 guard.miracloud.fr
-0.0.0.0 on.mishutkin.click
+0.0.0.0 ultra.mishutkin.click
 0.0.0.0 netcup.mismat.ch
 0.0.0.0 httpdns.browser.miui.com
 0.0.0.0 dns.miyun1.com
@@ -4109,8 +4117,7 @@
 0.0.0.0 doh.moorecloud.id
 0.0.0.0 dns.moraes.tech
 0.0.0.0 web-kook.mosbatbashim.info
-0.0.0.0 misuga76.mosswren.vip
-0.0.0.0 ramane52.mosswren.vip
+0.0.0.0 rirara15.mosswren.vip
 0.0.0.0 dns.motazhakim.com
 0.0.0.0 bio.learn.mouse-hole.com
 0.0.0.0 vpn.mozilla.org
@@ -4327,6 +4334,8 @@
 0.0.0.0 cube.neubsi.at
 0.0.0.0 dns.neubsi.at
 0.0.0.0 dns.neutopia.org
+0.0.0.0 t5.nevcodeframe.com
+0.0.0.0 t6.nevcodeframe.com
 0.0.0.0 hours.newlifesanctuarychurch.com
 0.0.0.0 services.newlifesanctuarychurch.com
 0.0.0.0 tuffled-getit-pleaselaugh.newlifesanctuarychurch.com
@@ -5063,7 +5072,6 @@
 0.0.0.0 adguard.senthil.us
 0.0.0.0 forzalaquila.servebeer.com
 0.0.0.0 privatnas.servebeer.com
-0.0.0.0 dpi.server-space52.info
 0.0.0.0 server1.server-space52.info
 0.0.0.0 server2.server-space52.info
 0.0.0.0 web.server-space52.info
@@ -5300,6 +5308,7 @@
 0.0.0.0 cdn.streamr.com
 0.0.0.0 dns.streamsmoke.com
 0.0.0.0 dns.streamvine.app
+0.0.0.0 tond.strobox.info
 0.0.0.0 vpn.stroialliance.com
 0.0.0.0 dns.struchkov.dev
 0.0.0.0 dns.stud.cloud
@@ -5515,7 +5524,7 @@
 0.0.0.0 dns.thore.cloud
 0.0.0.0 topic.know.ticpu.net
 0.0.0.0 fdfhgbv.ticsur.cl
-0.0.0.0 suvisu27.tidelark.cc
+0.0.0.0 tozo31.tidelark.cc
 0.0.0.0 education.timbalemail.com
 0.0.0.0 dns.timboeh.me
 0.0.0.0 ad.timefine.org
@@ -7384,6 +7393,7 @@
 0.0.0.0 bettingbet365.com
 0.0.0.0 bexumvpn.help
 0.0.0.0 bezlimitvpn.homes
+0.0.0.0 bfesedv.uk
 0.0.0.0 bfgok.com
 0.0.0.0 bfjqye.com
 0.0.0.0 bgpnet.org
