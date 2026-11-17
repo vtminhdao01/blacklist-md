@@ -1,6 +1,6 @@
 # Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
 # CopyRight by HaGeZi's.
-# Updates At: Tue Nov 17 00:42:13 UTC 2026
+# Updates At: Tue Nov 17 23:47:22 UTC 2026
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
 0.0.0.0 dns.010812.xyz
@@ -613,8 +613,12 @@
 0.0.0.0 dns.bartar.me
 0.0.0.0 dns.barunlabs.dev
 0.0.0.0 home.basthorst.eu
+0.0.0.0 george-is.a-bum.and-me-and-john.are.cool.baumgardner.us
+0.0.0.0 desmos.edu.baumgardner.us
+0.0.0.0 1.baumgardner.us
 0.0.0.0 67.baumgardner.us
 0.0.0.0 garden.baumgardner.us
+0.0.0.0 s7mmervxbes-luck-is-real.baumgardner.us
 0.0.0.0 fake.bayworld.net
 0.0.0.0 vps01.bbhc.xyz
 0.0.0.0 dns.bcel.email
@@ -2604,6 +2608,7 @@
 0.0.0.0 takhtakh.domyah.net
 0.0.0.0 watch-dexter.or-you-now.donciccio.net
 0.0.0.0 gpthinker.donghaiji.com
+0.0.0.0 toocoolforschool.donhoo.com
 0.0.0.0 dns.doserver.top
 0.0.0.0 dns.dotnet.win
 0.0.0.0 family.dns.doubleangels.com
@@ -3914,6 +3919,7 @@
 0.0.0.0 host.jerry-lee.uk
 0.0.0.0 dns.jerrylee.uk
 0.0.0.0 dns.jerryw.cn
+0.0.0.0 adguard.jfchenier.ca
 0.0.0.0 dns.jhangy.us
 0.0.0.0 dns.jichi.io
 0.0.0.0 homes.jif9.net
@@ -4036,6 +4042,10 @@
 0.0.0.0 dns1.klcd.eu
 0.0.0.0 dns2.klcd.eu
 0.0.0.0 nickel.klinikfysik.dk
+0.0.0.0 howto.klinikkenoj.dk
+0.0.0.0 la-vacca.klinikkenoj.dk
+0.0.0.0 nirselenite.klinikkenoj.dk
+0.0.0.0 seb-likes-men.klinikkenoj.dk
 0.0.0.0 rally.kllevr.com
 0.0.0.0 adguard.kngnet.de
 0.0.0.0 russia.knox-proxy.world
@@ -6166,6 +6176,7 @@
 0.0.0.0 dooh.waterfox.net
 0.0.0.0 domeq.waw.pl
 0.0.0.0 dns.wdnts.eu
+0.0.0.0 www-wsdr.weasdr.site
 0.0.0.0 dns.engineer.web.id
 0.0.0.0 how.learn.harimurti.web.id
 0.0.0.0 dns.jsd.web.id
@@ -7209,6 +7220,7 @@
 0.0.0.0 archivebase.info
 0.0.0.0 archvpn.help
 0.0.0.0 arcticstorm.ru
+0.0.0.0 area9.uk
 0.0.0.0 areas.fun
 0.0.0.0 arenaproxy.xyz
 0.0.0.0 argovpn.com
@@ -7901,7 +7913,6 @@
 0.0.0.0 botvpntype.com
 0.0.0.0 bouquetberlin.org
 0.0.0.0 bpn.wtf
-0.0.0.0 bproxy.one
 0.0.0.0 bqinoiq.com
 0.0.0.0 bqkqixr.com
 0.0.0.0 brafnex.ru
@@ -8536,7 +8547,6 @@
 0.0.0.0 cyclesydneylondon.com
 0.0.0.0 cyneros.com
 0.0.0.0 cynntex.fun
-0.0.0.0 cyperproxies.io
 0.0.0.0 cyphervpn.pro
 0.0.0.0 cyphyl.com
 0.0.0.0 czrnavdk.com
@@ -9762,6 +9772,7 @@
 0.0.0.0 flashput.net
 0.0.0.0 flashputon.com
 0.0.0.0 flashputon.net
+0.0.0.0 flashvpn.li
 0.0.0.0 flasksync.com
 0.0.0.0 flexline.xyz
 0.0.0.0 flexlinex.com
@@ -9924,10 +9935,7 @@
 0.0.0.0 freevpncuba.com
 0.0.0.0 freevpnfast.info
 0.0.0.0 freevpnfirst.online
-0.0.0.0 freevpnghana.com
-0.0.0.0 freevpnhongkong.com
 0.0.0.0 freevpnkeys.com
-0.0.0.0 freevpnlebanon.com
 0.0.0.0 freevpnmars.com
 0.0.0.0 freevpnnet.com
 0.0.0.0 freevpnnode.com
@@ -11380,6 +11388,7 @@
 0.0.0.0 keyphone92.com
 0.0.0.0 kfwjq7a3.com
 0.0.0.0 kgkt5w6.com
+0.0.0.0 khal33.me
 0.0.0.0 khome.site
 0.0.0.0 khpkadmig.click
 0.0.0.0 kickassproxy.com
@@ -12574,7 +12583,6 @@
 0.0.0.0 neodon-vpn.com
 0.0.0.0 neoncrumb.com
 0.0.0.0 neonforests.com
-0.0.0.0 neptunproxies.com
 0.0.0.0 nerbix.xyz
 0.0.0.0 neru.cc
 0.0.0.0 nerwo.info
@@ -12619,6 +12627,7 @@
 0.0.0.0 nexifyvpn.org
 0.0.0.0 nexitally.info
 0.0.0.0 nexitallyeb.com
+0.0.0.0 nexitallyhh.com
 0.0.0.0 nexitallyig.com
 0.0.0.0 nexitallyjc.com
 0.0.0.0 nexitallysafe.com
@@ -12799,6 +12808,7 @@
 0.0.0.0 nttconnections.com
 0.0.0.0 ntwrkh.pro
 0.0.0.0 ntyrqg.com
+0.0.0.0 nucleusvpn.com
 0.0.0.0 nucnhwsx.com
 0.0.0.0 nuevita.org
 0.0.0.0 nuia4jjw.com
@@ -12864,7 +12874,6 @@
 0.0.0.0 okedr.ru
 0.0.0.0 okgfw.top
 0.0.0.0 oklubnika.ru
-0.0.0.0 okovpn.app
 0.0.0.0 okproxy.com
 0.0.0.0 okryjovnik.ru
 0.0.0.0 okvpn.io
@@ -13084,6 +13093,7 @@
 0.0.0.0 pcd25xcm.com
 0.0.0.0 pcgo.fun
 0.0.0.0 pcxyca9z.com
+0.0.0.0 pdfproxy.com
 0.0.0.0 pdnssrvagh.online
 0.0.0.0 pdwcauia.com
 0.0.0.0 peacedefine.com
@@ -13220,6 +13230,7 @@
 0.0.0.0 planetvpn-rus.net
 0.0.0.0 planetvpnfree.com
 0.0.0.0 planetvpnfree.net
+0.0.0.0 planetvpnru.net
 0.0.0.0 planvero.ru
 0.0.0.0 platinumunblocker.com
 0.0.0.0 plato-vpn.com
@@ -13571,7 +13582,6 @@
 0.0.0.0 proxyspace.pro
 0.0.0.0 proxyssl.org
 0.0.0.0 proxystride.com
-0.0.0.0 proxystrike.io
 0.0.0.0 proxysupply.com
 0.0.0.0 proxysurfing.org
 0.0.0.0 proxytime.net
@@ -13640,7 +13650,6 @@
 0.0.0.0 puremember.com
 0.0.0.0 purepiston.com
 0.0.0.0 pureprojsq.xyz
-0.0.0.0 pureproxies.io
 0.0.0.0 puresiq.xyz
 0.0.0.0 puretuijian.com
 0.0.0.0 puretuijian.pro
@@ -13915,6 +13924,7 @@
 0.0.0.0 rola-ip.co
 0.0.0.0 romanschrom.com
 0.0.0.0 ronald.run
+0.0.0.0 roodel.com
 0.0.0.0 roogen.com
 0.0.0.0 roomatic.net
 0.0.0.0 roonyx.com
@@ -13945,7 +13955,6 @@
 0.0.0.0 ru-planetvpn.com
 0.0.0.0 ru-vpnly.net
 0.0.0.0 rubyfish.cn
-0.0.0.0 rubyproxies.com
 0.0.0.0 rudolphdesigns.com
 0.0.0.0 rumpelsepp.org
 0.0.0.0 rungame20.com
@@ -14572,6 +14581,7 @@
 0.0.0.0 super123.org
 0.0.0.0 superapi.cz
 0.0.0.0 superbproxy.com
+0.0.0.0 superbypasses.com
 0.0.0.0 superconnect.dev
 0.0.0.0 superfreevpn.com
 0.0.0.0 supergisfire.com
